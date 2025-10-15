@@ -62,11 +62,11 @@ Total Shortage Amount: $1,234,567.89
 
 ### 📆 Total Shortages by Year
 
-![Shortages Totales por Año](images/annual_shortages_chart.png)
+![Shortages Totales por Año](/annual_shortages_chart.png)
 
 ### ⏳ Aged Shortages by Year
 
-![Shortages Aged por Año](images/aged_shortages_chart.png)
+![Shortages Aged por Año](/aged_shortages_chart.png)
 
 ---
 
