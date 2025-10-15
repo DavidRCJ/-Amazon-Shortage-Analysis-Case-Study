@@ -100,11 +100,6 @@ This analysis successfully quantified and categorized the inventory shortages Am
 
 ---
 
-## 💡 Final Recommendation
-
-We recommend generating PO- and invoice-level discrepancy reports with supporting shipment evidence. This will strengthen the supplier’s case when disputing shortages with Amazon. Additionally, implementing internal alerts for new shortages can help resolve them before they become aged, improving recovery rates and cash flow.
----
-
 ## 👨‍💻 Author
 
 **David Ricardo Cruz Juárez**  
