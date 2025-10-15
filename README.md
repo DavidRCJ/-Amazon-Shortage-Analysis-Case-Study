@@ -10,6 +10,16 @@ ETL project to analyze inventory discrepancies ("shortages") in Amazon invoices.
 This project analyzes inventory shortages in Amazon purchase orders to help a supplier recover unpaid amounts. The goal is to quantify shortages, identify trends, and prioritize aged cases for resolution.
 
 ---
+You can run the analysis directly in Google Colab:
+
+👉 [Open the notebook in Colab](https://colab.research.google.com/drive/10vjmUePKBJz0h06-QcoGCg32y8Oy89ZF?usp=sharing)
+
+Steps:
+1. Click the link above to open the notebook.
+2. Upload `Headers2025.csv` to your session.
+3. Run all cells to generate summary tables and visualizations.
+
+---
 
 ## 📊 Dataset Summary
 
