@@ -80,19 +80,29 @@ Total Shortage Amount: $1,234,567.89
 
 ---
 
-## 💡 Recommendations
+## ✅ Conclusion
 
-- **Prioritize aged shortages**: Focus recovery efforts on invoices older than 90 days.
-- **Automate PO-level discrepancy reports**: Use this analysis to generate evidence for Amazon.
-- **Monitor monthly trends**: Prevent shortages from aging by resolving them early.
+This analysis successfully quantified and categorized the inventory shortages Amazon recorded against our client’s purchase orders. Based on 43,546 invoices, we identified the following key insights:
+
+- **Total shortage amount:** A cumulative shortage value of **$1,234,567.89 USD** was detected. This represents the total amount Amazon withheld due to perceived under-shipments.
+
+- **Annual trends:** Shortages were consistent across years, with noticeable peaks in 2022 and 2023. These spikes may indicate operational or logistical issues worth investigating further.
+
+- **Aged shortages:** A significant portion of the shortages are classified as **aged**—meaning they are more than 90 days past the payment due date. These represent long-outstanding unpaid amounts and should be prioritized for recovery.
 
 ---
 
-## 📁 Repository Structure
+## 🎯 Implications
 
+- The analysis confirms there are real financial recovery opportunities if the supplier can prove the disputed units were indeed shipped.
+- Categorizing shortages by age allows the team to focus on the most urgent and recoverable cases.
+- This process can be automated and repeated monthly to prevent shortages from aging and accumulating.
 
+---
 
+## 💡 Final Recommendation
 
+We recommend generating PO- and invoice-level discrepancy reports with supporting shipment evidence. This will strengthen the supplier’s case when disputing shortages with Amazon. Additionally, implementing internal alerts for new shortages can help resolve them before they become aged, improving recovery rates and cash flow.
 ---
 
 ## 👨‍💻 Author
